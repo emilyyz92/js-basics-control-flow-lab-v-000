@@ -11,5 +11,4 @@ function scuberGreetingForFeet(length) {
       return 'I will gladly take your thirty bucks.'
       break;
   }
-  
 }
