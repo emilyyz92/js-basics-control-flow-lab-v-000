@@ -1,6 +1,6 @@
 // Write your code in this file!
 function scuberGreetingForFeet(length) {
-   case length <= 199:
+  case length <= 199:
     return "This one is on me!";
     break;
   case length > 2500:
