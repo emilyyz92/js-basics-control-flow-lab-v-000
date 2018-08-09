@@ -7,5 +7,4 @@ function scuberGreetingForFeet(length) {
   } else {
     return 'No can do.';
   }
-  }
 }
